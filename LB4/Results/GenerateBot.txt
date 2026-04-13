@@ -1,0 +1,75 @@
+qwen3:0.6b:
+User: tell a story about school
+Jarvis: **Title: "The Library of Tomorrow"**
+
+In the quiet town of Elanwood, nestled between rolling hills and a sparkling river, there stood a small school
+ known for its eccentric students. The town had long been a hub for curiosity, with a library that thrived on 
+stories rather than books.  
+
+Among the students was **Lila**, a curious librarian with a knack for organizing books. Her desk was cluttered
+ with stories, but she often felt overwhelmed by the sheer number of books and the pressure to keep the library
+ running smoothly. Then there was **Max**, a science geek who preferred to solve problems through experiments 
+rather than just reading. Their friendship was built on mutual respect and shared dreams of becoming scientists.
+
+One day, a mysterious event sparked a change in the library. A new book, *The Quantum of Tomorrow*, was discovered
+ in the archives—its pages filled with equations and diagrams. It was a symbol of a new era in Elanwood. But as 
+the books grew, so did the questions. Lila and Max, who had always been the bridge between knowledge and creativity,
+ found themselves at odds. Lila saw the books as a burden, while Max saw them as a source of wonder.
+
+One evening, as they worked on the new book, Max accidentally spilled ink on a diagram, causing a mess. Lila, who had
+ always been the one to organize, tried to fix it, but her hands were stained. Max, instead, suggested a different
+ approach: to use the book as a tool for collaboration. Together, they realized that the true power of a book lay not
+ just in its content, but in how it was shared and shared between people.
+
+In the end, the library became a place where stories and science converged, and the two students became the heart of 
+their shared world. Their friendship grew stronger, and they learned that the greatest discoveries often come from 
+understanding each other’s strengths and embracing the unknown.  
+
+**Ending:**  
+As the sun set over Elanwood, the library buzzed with excitement. Lila and Max stood on opposite sides of the desk, 
+their eyes filled with wonder. They had transformed from rivals into collaborators, and the story of their journey 
+was a reminder that the power of a book lies in the hands of those who dare to believe in it.
+
+ 
+smollm2:360m:
+User: tell a story about school
+Jarvis: Once upon a time, there was a young boy who loved to learn and dream of being one day in the big city. 
+He lived in a small town where everyone knew each other's names and stories were shared freely. This boy had 
+just finished his first year at school when he received news that his father would be gone for four long years
+ - he'd leave as soon as his grandfather was ready to take him home.
+
+As the days passed, this young boy found himself bored by what seemed like endless routines and drills in a 
+classroom full of students staring into their phones. He felt lost and unsure about which path to choose between
+his love for learning and his desire to be with his family who were all going away on a long journey.
+
+One day, while wandering through the school building, he stumbled upon an old book about American history in the
+backroom of the library. It was tucked into a section where no one ever went because it was considered a place
+for books that only adults would read. The young boy loved this part of the book and decided to make his escape
+from the normal routine. He had always dreamed of being an author.
+
+He took out a pen, paper, and began writing in the margins of the book about what he wanted to do with his life.
+It was difficult as he was surrounded by classmates who were all busy learning their subjects or preparing for
+exams. But with each word, he started to feel a spark within him - it was like a flame that would light up his
+world one day.
+
+The school days passed and soon the boy's parents were going back home on their long journey. The family moved 
+away because his grandfather had to be away due to work. At this point, it seemed as though all hope was lost
+for the young boy with no future in sight. He felt lost and unsure about whether he would ever see his family 
+again or if he'd become a part of America's history.
+
+But then came a change in the form. It so happened that an author who wanted to learn from this kind young boy
+came back into the school, eager to read his writing and be inspired by it. He got to know the young boy and
+started reading his work, which he found interesting. The boy's handwriting was beautiful, and his words were 
+clear as water - they made him feel more alive than ever before.
+
+With this new inspiration, the boy decided to write another book about how one could change their path in life
+if someone wanted to do so. He was encouraged by his friend from school who suggested he start with a story 
+about overcoming obstacles and learning that no matter what you choose to be, it is your journey that makes you unique.
+The young boy's writing started to gain popularity. Many of the students were inspired by him to follow their 
+dreams and not let fate or circumstances hold them back. This encouraged his father who finally decided to come
+home a few months later. He was excited at first but soon realized it would mean he had lost a part of his son
+with whom he'd been close for years - that his child wasn't there anymore in the same sense he felt.
+
+This made him even more determined than ever before to see his young boy succeed and inspire others like him.
+The family moved back again, but this time they were staying closer to home because their son was growing up 
+with many dreams and passions and no one could predict what they would become.

@@ -1,0 +1,8 @@
+llava:
+Будь ласка, введіть шлях до зображення: Cat.jpg
+Jarvis аналізує:  The image shows a cat wearing headphones around its neck, looking attentively at the camera, with a 
+microphone next to it on its left side. The background is blurred but appears to be indoors with green and yellow tones. 
+
+moondream:
+Будь ласка, введіть шлях до зображення: Cat.jpg
+Jarvis аналізує: urn

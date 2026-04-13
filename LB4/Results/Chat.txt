@@ -1,0 +1,36 @@
+qwen3:0.6b:
+User: hi
+Jarvis: Hello! How can I assist you today? 😊
+User: I need to know why sky is blue
+Jarvis: The sky appears blue because sunlight passes through the atmosphere, specifically water droplets in the air, and refracts the light. When sunlight hits these droplets, it bends, making the light appear blue instead of red. This phenomenon is most visible in the upper atmosphere (troposphere) where the air is thinner and water vapor is more abundant. The blue color is a result of the scattering of blue light by the water vapor, which is why the sky appears so vivid.
+User: when sky can bee green?
+Jarvis: The sky is typically blue because sunlight is refracted by water droplets in the atmosphere, which scatter blue light. However, green could be a result of other factors depending on the specific conditions. For example, in the upper atmosphere (troposphere), water vapor and other gases might cause the sky to appear green when combined with sunlight. This phenomenon is more visible in certain atmospheric conditions, like clear air or low humidity. If the user is referring to a different color or a specific scenario, please clarify, and I’ll assist further. 😊
+User: thank you for answers, bye
+Jarvis: You're welcome! 😊 Have a great day. Feel free to ask if you need more information.
+
+smollm2:360m:
+User: hi
+Jarvis: Hi there, I'm glad you're interested in my capabilities. As an Assistant for Natural Language Processing (NLP)
+and Machine Learning within the Hugging Face platform, I can help with tasks related to text analysis, machine learning, 
+and natural language processing. How can I assist you today?
+User: I need to know why sky is blue
+Jarvis: Sky is indeed blue due to a phenomenon known as Rayleigh scattering, but more specifically it's the Earth's 
+atmosphere that gives it this color effect. The key component of our atmosphere, nitrogen and oxygen molecules, are 
+very small and make up less than 78% of the air we breathe. These tiny particles scatter sunlight in all directions, 
+with shorter wavelengths being scattered more easily than longer ones.
+
+However when sunlight enters Earth's atmosphere, it is scattered by these two primary components. Since our sky 
+appears blue to us because of this scattering effect, not due to any chemical reactions or pigments present within 
+the air itself.
+User: when sky can bee green?
+Jarvis: That's a great question! When you look out at the sky during sunrise or sunset, it indeed can appear green 
+due to something called "shade absorption" by Earth's atmosphere and clouds. 
+
+This is because as light travels from the sun towards Earth, some of that light hits particles in the atmosphere 
+like dust, water vapor, and pollutants, which scatter longer wavelengths (like blue) more than shorter ones (like red). 
+However, they absorb or reflect the shorter wavelengths (like green), so you see a greenish tint. This effect is much 
+less noticeable during clear daytime conditions.
+
+It's interesting to note that this phenomenon can also occur during other phases of sunrise and sunset as well.
+User: thank you for answers, bye
+Jarvis: That's it! I hope you found them helpful and enjoyed your conversation with me. Bye!
